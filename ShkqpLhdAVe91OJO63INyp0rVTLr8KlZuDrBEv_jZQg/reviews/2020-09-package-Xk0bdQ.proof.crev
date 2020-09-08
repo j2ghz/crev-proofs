@@ -1,0 +1,22 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-09-08T13:57:04.628793300+02:00"
+from:
+  id-type: crev
+  id: ShkqpLhdAVe91OJO63INyp0rVTLr8KlZuDrBEv_jZQg
+  url: "https://github.com/j2ghz/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: structopt
+  version: 0.3.17
+  revision: 6a7d1802c172f9973bb86f684ab7447247db066f
+  digest: AfQIdv2HU_EzJP9jzQkUrzjtMbn4qCrhyU5AKT6b1l0
+review:
+  thoroughness: low
+  understanding: medium
+  rating: neutral
+----- SIGN CREV PROOF -----
+GjLJc5lOWClrGYpEA4GKRWScGJ8uSNXf35ERH1b6udShjxGJ8IOjqhE0LM6pGln-63FimHbLOvIXzss4lCJHCQ
+----- END CREV PROOF -----
+
